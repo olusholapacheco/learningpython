@@ -15,3 +15,8 @@ a = int(input("Enter a number"))
 b = int(input("Enter a number"))
 print(x)
 print(y)
+
+# Now print the sum of both numbers entered 
+d = int(input("Enter a number"))
+t = int(input("Enter a number"))
+print("The sum of", d, "and", t, "is:", d + t)
