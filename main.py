@@ -38,7 +38,7 @@ f = int(input("Enter a number "))
 print("The square root of", o, "and", f, "is:", c ** f)
 
 
-# Writing a function that takes two numbers and returns the sum of both (division,multiplication)
+# Writing a function that takes two numbers and returns the sum of both (division,multiplication and square root)
 def sum_t_u(t, u):
     return t + u
 
