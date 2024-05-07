@@ -7,5 +7,6 @@ print(y)
 
 # Using python f string
 name = "Olivia"
-age = 41
-print(f"I am {x} and I live in house {y}.")
+house_number = 41
+print(f"I am {name} and I live in house {house_number}.")
+
