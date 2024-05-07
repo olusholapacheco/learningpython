@@ -38,7 +38,7 @@ f = int(input("Enter a number "))
 print("The square root of", o, "and", f, "is:", c ** f)
 
 
-# Writing a function that takes two numbers and returns the sum of both
+# Writing a function that takes two numbers and returns the sum of both (division,multiplication)
 def sum_t_u(t, u):
     return t + u
 
@@ -51,4 +51,12 @@ def divide_v_w(v, w):
 
 
 result = divide_v_w(1000, 200)
+print(result)
+
+
+def multiply_g_h(g, h):
+    return g * h
+
+
+result = multiply_g_h(9, 41)
 print(result)
