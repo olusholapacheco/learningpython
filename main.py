@@ -32,3 +32,8 @@ n = int(input("Enter a number"))
 m = int(input("Enter a number"))
 print("The result of the division is:", m / n)
 
+# Square root of the numbers entered
+c = int(input("Enter a number"))
+f = int(input("Enter a number "))
+print("The square root of", o, "and", f, "is:", c ** f)
+
