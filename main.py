@@ -37,3 +37,18 @@ c = int(input("Enter a number"))
 f = int(input("Enter a number "))
 print("The square root of", o, "and", f, "is:", c ** f)
 
+
+# Writing a function that takes two numbers and returns the sum of both
+def sum_t_u(t, u):
+    return t + u
+
+result = sum_t_u(200, 300)
+print(result)
+
+
+def divide_v_w(v, w):
+    return v / w
+
+
+result = divide_v_w(1000, 200)
+print(result)
