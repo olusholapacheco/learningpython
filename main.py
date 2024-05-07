@@ -61,3 +61,11 @@ def multiply_g_h(g, h):
 result = multiply_g_h(9, 41)
 print(result)
 
+
+def square_root_j_k(j, k):
+    return j ** k
+
+
+result = square_root_j_k(10, 10)
+print(result)
+
