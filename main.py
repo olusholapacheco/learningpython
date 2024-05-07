@@ -6,6 +6,6 @@ print(x)
 print(y)
 
 # Using python f string
-x = "Olivia"
-y = 41
+name = "Olivia"
+age = 41
 print(f"I am {x} and I live in house {y}.")
