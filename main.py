@@ -22,7 +22,13 @@ t = int(input("Enter a number"))
 print("The sum of", d, "and", t, "is:", d + t)
 
 # multiplying the numbers inputed
-# multiply the numbers entered
 o = int(input("Enter the first number: "))
 p = int(input("Enter the second number: "))
 print("The product of", o, "and", p, "is:", o * p)
+
+
+#now divide the numbers
+n = int(input("Enter a number"))
+m = int(input("Enter a number"))
+print("The result of the division is:", m / n)
+
